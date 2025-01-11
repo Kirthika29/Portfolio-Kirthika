@@ -1,0 +1,3 @@
+#DE3D97 - pink
+#3D97DE - blue
+#97DE3D - green
